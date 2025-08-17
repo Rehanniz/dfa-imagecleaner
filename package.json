@@ -1,0 +1,11 @@
+{
+  "name": "dfa-imagecleaner",
+  "version": "1.0.0",
+  "description": "A powerful Node.js utility specifically designed for RSG Framework developers to automatically clean up unused item images by parsing your items.lua file and removing orphaned image files.",
+  "main": "cleaner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
